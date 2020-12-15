@@ -23,7 +23,7 @@ public class UserBufferedReader {
         }
 
         int result = value + anothervalue ;
-        System.out.println("Hasilnya : " + result ) ;9
+        System.out.println("Hasilnya : " + result ) ;
     }
 
 }
